@@ -1,0 +1,4 @@
+A = ["disco", 10, 1.2]
+print('Before change:', A)
+A[0] = 'hard rock'
+print('After change:', A)
